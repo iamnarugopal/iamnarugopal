@@ -35,25 +35,25 @@
 
 ### Frameworks & Libraries
 
-![React JS](https://img.shields.io/badge/-React_JS-000?&logo=React)
+![React JS](https://img.shields.io/badge/React_JS-000?logo=React&logoColor=61DAFB&style=for-the-badge&logoWidth=30)
 ![Next JS](https://img.shields.io/badge/-Next_JS-000?&logo=Next.js)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-000?&logo=Redux)
-![Jotai](https://img.shields.io/badge/-Jotai-000?&logo=Jotai)
-![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=Zustand)
+![Jotai](https://img.shields.io/badge/-ghostery-000?&logo=ghostery)
+![Zustand](https://img.shields.io/badge/-foodpanda-000?&logo=foodpanda)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwindcss)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-000?&logo=stylecomponent)
+![Styled Components](https://img.shields.io/badge/-htmx-000?&logo=htmx)
 ![React Bootstrap](https://img.shields.io/badge/-React-000?&logo=Reactbootstrap)
-![Shadcn](https://img.shields.io/badge/-Shadcn-000?&logo=Shadcn)
+![Shadcn](https://img.shields.io/badge/-shadcnui-000?&logo=shadcnui)
 
 ### Software
 
-![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=vscode)
-![Notepad++](https://img.shields.io/badge/-Notepad-000?&logo=notepad++)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=photoshop)
+![VS Code](https://img.shields.io/badge/-infinityfree-000?&logo=infinityfree)
+![Notepad++](https://img.shields.io/badge/-notepadplusplus-000?&logo=notepadplusplus)
+![Photoshop](https://img.shields.io/badge/-photopea-000?&logo=photopea)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe-000?&logo=Adobexd)
+![Adobe XD](https://img.shields.io/badge/-baserow-000?&logo=baserow)
 ![GIT Desktop](https://img.shields.io/badge/-GIT-000?&logo=GIT)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-000?&logo=FileZilla)
 
