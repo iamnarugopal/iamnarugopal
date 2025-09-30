@@ -35,7 +35,7 @@
 
 ### Frameworks & Libraries
 
-![React JS](https://img.shields.io/badge/React_JS-000?logo=React&logoWidth=30)
+![React JS](https://img.shields.io/badge/React_JS-000?logo=React&style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/-Next_JS-000?&logo=Next.js)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-000?&logo=Redux)
 ![Jotai](https://img.shields.io/badge/-Jotai-000?&logo=ghostery)
