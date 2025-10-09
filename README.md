@@ -55,9 +55,6 @@
 ![GIT Desktop](https://img.shields.io/badge/-GIT-000?&logo=GIT&style=for-the-badge)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-000?&logo=FileZilla&style=for-the-badge)
 
-
- ![iamnarugopal's Stats](https://github-readme-stats.vercel.app/api?username=iamnarugopal&theme=algolia&show_icons=true&hide_border=true&count_private=false)
-
+![iamnarugopal's Stats](https://github-readme-stats.vercel.app/api?username=iamnarugopal&theme=algolia&show_icons=true&hide_border=true&count_private=false)
 ![iamnarugopal's Streak](https://streak-stats.demolab.com/?user=iamnarugopal&theme=algolia&hide_border=true)
-
- ![iamnarugopal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnarugopal&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![iamnarugopal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnarugopal&theme=algolia&show_icons=true&hide_border=true&layout=compact)
