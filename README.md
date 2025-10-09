@@ -13,17 +13,15 @@
 
 ### About me
 
-* 💻 Frontend Dev vibin' with React JS, Next JS, JavaScript (ES6+), TypeScript and all things UI.
+- 💻 Frontend Dev vibin' with React JS, Next JS, JavaScript (ES6+), TypeScript and all things UI.
 
-* ⚡ Obsessive about smooth UX, snappy interfaces, and clean code that just works.
+- ⚡ Obsessive about smooth UX, snappy interfaces, and clean code that just works.
 
-* 📱 Building for web + mobile-responsive experiences that look good on any screen.
+- 📱 Building for web + mobile-responsive experiences that look good on any screen.
 
-* 🌍 Into open source, side projects, and learning cool new tools on the go.
+- 🌍 Into open source, side projects, and learning cool new tools on the go.
 
-* 🛠️ Currently leveling up backend skills (hello Node 👋) for that fullstack energy.
-
-
+- 🛠️ Currently leveling up backend skills (hello Node 👋) for that fullstack energy.
 
 ### Languages
 
@@ -58,6 +56,7 @@
 ![FileZilla](https://img.shields.io/badge/-FileZilla-000?&logo=FileZilla&style=for-the-badge)
 
 <a href="https://narugopal.vercel.app/">
-  <img style="height:135px" src="https://github-readme-stats.vercel.app/api/?username=iamnarugopal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img style="height:135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnarugopal&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+ ![iamnarugopal's Stats](https://github-readme-stats.vercel.app/api?username=iamnarugopal&theme=algolia&show_icons=true&hide_border=true&count_private=false)
+ ![iamnarugopal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamnarugopal&theme=algolia&hide_border=true)
+ ![iamnarugopal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnarugopal&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 </a>
