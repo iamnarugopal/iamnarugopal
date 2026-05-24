@@ -29,7 +29,7 @@
 ![JavaScript (ES6+)](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS&style=for-the-badge)
 
 ### State Management
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-000?&logo=Redux&style=for-the-badge)
