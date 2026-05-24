@@ -52,5 +52,3 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=photopea&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&style=for-the-badge)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-000?&logo=FileZilla&style=for-the-badge)
-
-![iamnarugopal's Stats](https://github-readme-stats.vercel.app/api?username=iamnarugopal&theme=algolia&show_icons=true&hide_border=true&count_private=false)
